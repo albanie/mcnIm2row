@@ -1,6 +1,6 @@
 ## mcnIm2row
 
-Expose the MatConvNet C++ `im2row` function via MATLAB.
+Exposes the MatConvNet C++ `im2row` function as a MATLAB function called `vl_nnim2row`.
 
 ### Demo
 
