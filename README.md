@@ -10,7 +10,7 @@ from the root directory of your MatConvNet installation:
 
 ```
 vl_contrib('install', 'mcnIm2row') ;
-vl_contrib('compile', 'mcnColors') ;
+vl_contrib('compile', 'mcnIm2row') ;
 vl_contrib('setup', 'mcnIm2row') ;
 ```
 
