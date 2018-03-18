@@ -7,4 +7,4 @@ function setup_mcnIm2row()
 
   root = fileparts(mfilename('fullpath')) ;
   addpath(root, [root '/matlab'], [root '/misc']) ;
-  addpath( [root '/matlab/mex'], [root '/benchmarks']) ;
+  addpath( [root '/matlab/mex']) ;
